@@ -1,16 +1,13 @@
-## Hi there 👋
+## Seja bem vindo ao meu perfil💙
 
-<!--
-**heitorbrambilla/heitorbrambilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Meu nome é Heitor Brambilla
 
-Here are some ideas to get you started:
+- stou estudando na [Alura](https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estou aprendendo a lingua javaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos
+
+  ### voce entra em contato comigo📫
+
+  @heitorbrambilla
+![](https://tenor.com/pt-BR/view/mr-bean-waiting-still-waiting-gif-13052487)
